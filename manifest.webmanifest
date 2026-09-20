@@ -1,0 +1,16 @@
+{
+  "name": "BS EN 14363 Annex M - Track geometric quality",
+  "short_name": "선로 기하 품질",
+  "description": "궤도검측차(EM-120) 검측 데이터의 TL90 · QN3 분석 (BS EN 14363:2016 Annex M)",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1F3A5F",
+  "theme_color": "#1F3A5F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
