@@ -1,5 +1,5 @@
 /* 오프라인 캐시: 처음 한 번 열어 두면 이후에는 인터넷 없이 실행된다 (HTTPS 또는 localhost 에서만 등록됨) */
-const CACHE = 'tqa-tablet-v1.1';
+const CACHE = 'tqa-tablet-v1.2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
